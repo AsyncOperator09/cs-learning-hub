@@ -29,7 +29,7 @@ This portfolio is **concept-driven**, not assignment-driven.
 
 ### What you won’t see
 - Graded homework/lab solutions or copied submissions
-- Instructor materials or anything that would violate academic integrity policies :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+- Instructor materials or anything that would violate academic integrity policies
 
 The intent is to demonstrate understanding and growth while staying academically honest.
 
